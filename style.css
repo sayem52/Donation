@@ -1,0 +1,290 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    
+
+}
+#first{
+    height: 450px;
+    width: 100%;
+  
+    background-image:url("images/donation13.jpg");
+    
+    text-align: center;
+    color: aliceblue;
+
+}
+
+
+
+
+
+.header{
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+    
+}
+
+.button {
+    background-color: #e9535a;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  #second{
+  
+   height: 450px;
+   margin-top: 20px;
+   text-align: center;
+  }
+  #tk-center{
+    margin-top: 50px;
+    margin-left: 160px;
+  }
+  .money{
+    float: left;
+    margin: 5px 20px;
+   
+  }
+  .same-line{
+    margin-top: 32px;
+  }
+
+  #box{
+        
+        padding: 25px 10px;
+        background-color: #eeeff7;
+        border: 1px solid #e9535a;
+        border-radius: 3px;
+        color: #e9535a;
+        display: inline-block;
+        text-decoration:none;
+        
+       
+        
+  }
+
+  #other-tk{
+    margin-top: 200px;
+    margin-left: 10px;
+    text-align: center;
+    
+    
+  }
+  hr{
+    width: 60%;
+    
+  }
+
+  #third{
+
+    height: 680px;
+    margin-top: 45px;
+    text-align: center;
+
+  }
+
+  #part1{
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 25px;
+    float: left;
+    background-color: #d8d9da;
+    height: 300px;
+
+  }
+
+  #part2{
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 10px;
+    float: left;
+    background-color: #f5bdd7;
+    height: 300px;
+
+  }
+
+  #part3{
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 10px;
+    float: left;
+    background-color: #f1edc5;
+    height: 300px;
+
+  }
+
+  .part-a{
+    height: 50px;
+    padding-top: 30px;
+    padding-left: 20px;
+    text-align: left;
+    
+  }
+  img .part-a{
+    width: 100%;
+  }
+
+  .part-b{
+    height: 200px;
+    padding-left: 15px;
+    text-align: left;
+    
+  }
+
+
+  #fourth{
+    height: 600px;
+    width:100%;
+    background-image: url("images/donation7.jpg");
+    color: #03d3c2ea;
+    text-align: center;
+    padding-top: 30px;
+    
+    
+  }
+
+  #help{
+    width: 30%;
+    padding-top: 40px;
+    padding-left: 25px;
+    float: left;
+    
+    height: 400px;
+
+  }
+  
+  .help-a{
+    height: 150px;
+    padding-top: 00px;
+    padding-left: 20px;
+   
+    background-color: #d8d9da;
+    
+  }
+  img .help-a{
+    width:50%;
+    
+  }
+
+  .help-b{
+    height: 250px;
+    padding-left: 20px;
+    text-align: left;
+    
+  }
+
+  #fifth{
+
+    height: 700px;
+  }
+
+
+  .campaign-w{
+    width: 40%;
+    background-color: #e9535a;
+    margin-left: 15px;
+    padding-left: 5px;
+    text-align: center;
+    float: left;
+    
+
+  }
+
+  .campaign-img{
+    
+    width: 40%;
+    float: left;
+    margin-left: 15px;
+  }
+  #img-set{
+    height: 220px;
+  }
+ 
+
+  #img-setL{
+
+    height: 300px;
+    width: 420px;
+    margin-top: 30px;
+    float: left;
+   
+
+  }
+  #write-set{
+    width: 40%;
+    height: 300px;
+    
+    background-color: #e9535a;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 10px;
+    text-align: center;
+    float: left;
+    
+  }
+
+  #update{
+    text-align: center;
+    height: 500px;
+  }
+
+  #subscribe{
+    margin-top: 20px;
+    margin-left: 80px;
+    height: 150px;
+    width:650px;
+    background-color: #fadfe0;
+  }
+
+
+
+  #email{
+    margin-top: 70px;
+    margin-left: 180px;
+    float:left;
+  }
+
+  #last-button{
+    margin-top: 70px;
+    margin-right: 210px;
+    background-color: #e9535a;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    cursor: pointer;
+   
+  }
+
+
+  footer{
+    background-color: black;
+    height:200px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 50px;
+    color: #d8d9da;
+}
+
+#f-header{
+ 
+  color: #e9535a;
+
+}
+ 
